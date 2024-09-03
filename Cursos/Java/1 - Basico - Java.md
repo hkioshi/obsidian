@@ -1,0 +1,45 @@
+- Print
+	- Console.out.println();
+- Entrada console
+	- Scaner: Scanner nome = new Scanner(system.in);
+	- string a = nome.Next();
+		- no Next é possivel colocar que tipo quer ler, por exemplo NextInt()
+- Comentarios
+	- // comenta linha
+	- /* comenta bloco\*/
+- [[1.1 TiposJ]]
+	- int, float, double
+	- byte, short, long
+	- boolean
+	- char, string
+		- [[1.1.3 Metodos de string]]
+- [[1.2 Operaçoes]]
+	 - Operações Matemáticas
+		- `+ - * / % ++ --`
+	- Operações Lógicas
+		- `&& || !`
+	- Operações de Comparação
+		- `== != > < >= <=
+	- Math
+		- Math.cos(), Math.sin(), Math.pi, etc
+		- 
+- [[1.3 Condição]]
+	- if, else e ifelse
+	- #operador_ternário
+		- condicao ? valorSeVerdadeiro : valorSeFalso;
+- [[1.4 Repetição]]
+	- for, foreach, while, do-while
+- [[1.5 Switch case]]
+	- A instrução `switch` em C# é uma estrutura de controle de fluxo que executa diferentes blocos de código com base no valor de uma expressão, facilitando a substituição de múltiplas instruções `if-else`
+- Funções
+	- (coisas antes como: public, static, etc) tipoDoRetorno NomeDaFuçao(TipodoParam nome )
+		{
+			codigo
+			return ; // se o tipo do retorno nao for void
+		}
+- [[1.6 Lambda]]
+	- Uma expressão que define uma implementação concisa de uma interface funcional.
+	- **Função**: Simplificar a criação de instâncias de interfaces funcionais com implementações curtas e claras.
+- [[1.7 Exceptions]]
+	- Tratamentos de erros
+	- Try, catch

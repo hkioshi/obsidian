@@ -1,0 +1,4 @@
+- [[5.1 DateTime]]
+	- `DateTime` em C# é uma estrutura que representa instantes específicos no tempo, tipicamente expressos como uma data e uma hora do dia. Abaixo estão os principais aspectos e funcionalidades de `DateTime`:
+- [[5.2 - Arquivos txt]]
+	- Manipulação de arquivos txt do c#

@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "9ca16fafb2cebe9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9280ffc653cb6b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4021e59f68791c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Index - Cursos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f73d6dbf7148e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Index - Cursos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f723ac5fd83c7867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Modelagem de banco de dados/Aula 2 - Introdução ao modelo relacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f6c6118dac450fc",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban sem título.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3de446466b1e6739",
+    "type": "split",
+    "children": [
+      {
+        "id": "897f5f1841f50dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbab08f8c36b2da7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a8b3a67e6adbd61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1553ef56e1d25c91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fc4d3d437742d89",
+    "type": "split",
+    "children": [
+      {
+        "id": "5898b59865969ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f400a3165c2ac7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban sem título.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c694f36c3bd8ca88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "545cc38f81949952",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09c927f488632fe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban sem título.md"
+              }
+            }
+          },
+          {
+            "id": "9389ca6f6f607304",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ed11b419f599fa1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5f6c6118dac450fc",
+  "lastOpenFiles": [
+    "Kanban sem título 1.md",
+    "Kanban sem título.md",
+    "Sem título.canvas",
+    "Cursos/CSharp/1 - Basico - CS.md",
+    "Cursos/CSharp/1.1 Tipos cs.md",
+    "1.1 Tipos.md",
+    "Cursos/Lógica/1 - Básicos.md",
+    "Cursos/CSharp/1.1.3 Metodos de string.md",
+    "Ch.md",
+    "Cursos/Lógica",
+    "Cursos/Modelagem de banco de dados/Aula 2 - Introdução ao modelo relacional.md",
+    "Cursos/Modelagem de banco de dados/Index - Modelagem de Banco de dados.md",
+    "Cursos/Index - Cursos.md",
+    "Cursos/Modelagem de banco de dados/Aula 1 - Conceito de Banco de dados.md",
+    "Dependencias/Pasted image 20240830113511.png",
+    "Dependencias/Pasted image 20240830113257.png",
+    "Dependencias/Pasted image 20240830113012.png",
+    "Cursos/Modelagem de banco de dados",
+    "Aulas/Teoria da computação/Aula 3 - Slide 1 - TC.md",
+    "Aulas/Teoria da computação/TC - Index.md",
+    "Index.md",
+    "Aulas/Iniciação/Ficha - Febre Oropouche.md",
+    "Aulas/Iniciação/IC - Index.md",
+    "Dependencias/Atividade 1 - TC - Aula 2.canvas",
+    "Dependencias/Atividade 1 - CD.canvas",
+    "Cursos/CSharp/1.11 Assincrono.md",
+    "Cursos/CSharp/1.7 lambda.md",
+    "Aulas/Ciencias de dados/Aula 3 - OLAP - CD.md",
+    "Cursos/CSharp/2 - POO.md",
+    "Aulas/Ciencias de dados/CD - Index.md",
+    "Aulas/Ciencias de dados/Aula 2 - Wrangling - CD.md",
+    "Aulas/Sistemas Operacionais/Aula 1 - Instalar Alpine - SO.md",
+    "Aulas/Sistemas Operacionais/SO - Index.md",
+    "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
+    "Dependencias",
+    "Aulas/Iniciação",
+    "Aulas/Atividades",
+    "Imagens",
+    "Cursos/Fichas",
+    "Jogos",
+    "Aulas/Projeto Integrador",
+    "PI"
+  ]
+}
