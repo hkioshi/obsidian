@@ -1,0 +1,26 @@
+{
+  "defaultVoice": "speechSynthesis-Microsoft Maria - Portuguese (Brazil)",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft Daniel - Portuguese (Brazil)",
+      "voice": "Microsoft Daniel - Portuguese (Brazil)"
+    },
+    {}
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}

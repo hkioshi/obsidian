@@ -29,3 +29,5 @@ Como os maruins atravessam a tela comum, é recomendado utilizar telas de malhas
 [Fonte ](https://portal.fiocruz.br/noticia/2024/08/especialistas-detalham-caracteristicas-do-culicoides-paraensis-o-mosquito-polvora#:~:text=Maria%20Luiza%3A%20O%20ciclo%20de,se%20transformam%20no%20inseto%20adulto.)
 
 A época de chuvas e calor intenso é propícia para a proliferação do mosquito-pólvora (ou maruim), que transmite a febre oropouche
+
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/o/oropouche/painel-epidemiologico

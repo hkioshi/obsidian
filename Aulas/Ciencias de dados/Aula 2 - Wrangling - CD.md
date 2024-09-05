@@ -10,4 +10,4 @@
 	- Tirar dados ruins
 - ## Tratamentos de pontos fora da curva
 	- Tirar dados muito distoantes
-# Pandas
+# [[Aula 2.1 Pandas - CD]]
