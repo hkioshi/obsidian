@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema.md",
+                "file": "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema.md",
+                "file": "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema.md",
+                "file": "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema.md"
+                "file": "Aulas/Processamento de Imagem/Aula 1 - Pi.md"
               }
             }
           },
@@ -227,52 +227,56 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "2c517a48cff00cc0",
+  "active": "bbab08f8c36b2da7",
   "lastOpenFiles": [
-    "Pasted image 20240905172746.png",
-    "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script.md",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/mc.png",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/IMG_0667.jpeg",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/mc.gif",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/lista01.pdf",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/images.jpeg",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Tela4.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Tela3.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Tela2.Py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Tela.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/sadfgdf.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/filtros.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/Converter_imagem.py",
+    "Aulas/Processamento de Imagem/Processamento de imagens/coisa.py",
+    "Aulas/Sistemas Operacionais/Aula 1 - Instalar Alpine - SO.md",
+    "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
+    "Aulas/Processamento de Imagem/Pi - Index.md",
+    "Coisas à fazer.md",
+    "Aulas/Teoria da computação/Aula 3 - Slide 1 - TC.md",
+    "Aulas/Teoria da computação/Aula 2 - Slide 1 - TC.md",
+    "Aulas/Teoria da computação/Aula 1 - Slide 1 -TC.md",
     "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema.md",
+    "Dependencias/Pasted image 20240905172746.png",
+    "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script.md",
     "Aulas/Paradigma de Programação/Aula 2 - Tipos X Sistema de tipos.md",
     "Aulas/Ciencias de dados/Aula 3 - OLAP Cubo - CD.md",
     "Aulas/Sistemas Operacionais/Aula 2 - Configurar Alpine -SO.md",
     "Cursos/Index - Cursos.md",
-    "Pasted image 20240905171150.png",
+    "Dependencias/Pasted image 20240905171150.png",
     "Aulas/Paradigma de Programação/Aula 1.1 Compilado X Interpretado.md",
-    "Coisas à fazer.md",
     "Index.md",
     "Aulas/Index - Aulas.md",
-    "Aulas/Teoria da computação/Aula 1 - Slide 1 -TC.md",
-    "Aulas/Teoria da computação/Aula 2 - Slide 1 - TC.md",
-    "Aulas/Teoria da computação/Aula 3 - Slide 1 - TC.md",
     "Aulas/Teoria da computação/TC - Index.md",
     "Aulas/Teoria da computação/Aula 1 - Slide 0 - TC.md",
     "Aulas/Computação grafica/CG - Index.md",
-    "Aulas/Sistemas Operacionais/Aula 1 - Instalar Alpine - SO.md",
     "Aulas/Sistemas Operacionais/SO - Index.md",
     "Aulas/Sistemas Operacionais/Aula 3 - Criptografia - SO.md",
     "Sem título 1.md",
     "Aulas/Paradigma de Programação/PP - Index.md",
     "Aulas/Paradigma de Programação/Aula 1 - Ficha de linguagem.md",
     "Aulas/Iniciação/Ficha - Febre Oropouche.md",
-    "Aulas/Ciencias de dados/CD - Index.md",
-    "Dependencias/Introducao a Teoria da Computacao (Z-lib.io).pdf",
-    "Aulas/Ciencias de dados/Aula 4 - Operações com Cubo.md",
     "Dependencias/Pasted image 20240905160132.png",
     "Dependencias/Pasted image 20240905154801.png",
-    "Aula 3.2",
     "Sem título.canvas",
-    "Cursos/Lógica",
     "Dependencias/Pasted image 20240830113511.png",
     "Dependencias/Pasted image 20240830113257.png",
     "Dependencias/Pasted image 20240830113012.png",
-    "Cursos/Modelagem de banco de dados",
     "Dependencias/Atividade 1 - TC - Aula 2.canvas",
-    "Dependencias/Atividade 1 - CD.canvas",
-    "Dependencias",
-    "Aulas/Iniciação",
-    "Aulas/Atividades",
-    "Imagens",
-    "Cursos/Fichas",
-    "Jogos"
+    "Dependencias/Atividade 1 - CD.canvas"
   ]
 }
