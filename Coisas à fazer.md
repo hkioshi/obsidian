@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] - [ ] Reinstalar Alpine
 - [ ] - [ ] Notas sobre Cap 3 - TC
 - [ ] - [ ] Lista de exercícios - TC
-- [ ] Subir o obsidian no github
 
 
 ## Em andamento
@@ -26,7 +25,11 @@ kanban-plugin: board
 - [ ] - [x] Aula 3 e 4 - CD
 
 
+***
 
+## Arquivado
+
+- [ ] Subir o obsidian no github
 
 %% kanban:settings
 ```

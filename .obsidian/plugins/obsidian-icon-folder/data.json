@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBadgeRussianRuble"
+      "LiArchive",
+      "LiAlbum",
+      "LiAngry",
+      "LiAlignJustify",
+      "LiAperture"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +33,15 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Dependencias": "LiBadgeRussianRuble"
+  "Dependencias": "LiBadgeRussianRuble",
+  "Aulas/Computação grafica": "LiAirplay",
+  "Aulas/Ciencias de dados": "LiAlignEndHorizontal",
+  "Aulas/Paradigma de Programação": "LiAppWindow",
+  "Aulas/Processamento de Imagem": "LiAperture",
+  "Aulas/Sistemas Operacionais": "LiAlignJustify",
+  "Aulas/Teoria da computação": "LiAngry",
+  "Aulas/Iniciação": "LiAlbum",
+  "Aulas/Projeto Integrador": "LiArchive",
+  "Aulas": "LiAlbum",
+  "Cursos": "LiAlbum"
 }
