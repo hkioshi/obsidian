@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"92f05e2bcede9916","type":"text","text":"botão pra Pescar","x":-320,"y":-385,"width":250,"height":60},
+		{"id":"0c6f33e0a9eee201","type":"text","text":"+1 Peixe","x":-40,"y":-385,"width":250,"height":60},
+		{"id":"8a071131968e1f28","type":"text","text":"100 Peixes","x":-40,"y":-260,"width":250,"height":60},
+		{"id":"8cee9fd4b34bbb0d","type":"text","text":"Loja ","x":-320,"y":-260,"width":250,"height":60},
+		{"id":"5804882673b8a7c7","type":"text","text":"Loja ","x":-40,"y":-160,"width":250,"height":60},
+		{"id":"24cba65cdb22d2c6","x":280,"y":-260,"width":250,"height":60,"type":"text","text":"+1 Vara - 100 peixes"},
+		{"id":"578e414a7ac17664","x":280,"y":-385,"width":250,"height":60,"type":"text","text":"+1 Peixe Por Clique"},
+		{"id":"119626c8e188eb79","x":560,"y":-260,"width":250,"height":60,"type":"text","text":"Rede - 150 peixes"},
+		{"id":"497af67768920d53","x":560,"y":-382,"width":250,"height":60,"type":"text","text":"+10 por clique"},
+		{"id":"9f0527dd9c2b9b87","x":840,"y":-260,"width":250,"height":60,"type":"text","text":"Pescador - 500 peixes"},
+		{"id":"48ea5aaa346ee705","x":840,"y":-382,"width":250,"height":60,"type":"text","text":"+1 auto Peixe"},
+		{"id":"5cd60fb83cea7c43","x":840,"y":-480,"width":250,"height":60,"type":"text","text":"5s"},
+		{"id":"0c6fcdf5b2429273","x":1120,"y":-260,"width":250,"height":60,"type":"text","text":""},
+		{"id":"afafd9d8e400cf79","x":155,"y":-20,"width":250,"height":60,"type":"text","text":"Lugares"},
+		{"id":"a3bdce0628be4744","x":530,"y":-20,"width":250,"height":60,"type":"text","text":"Tanque"},
+		{"id":"8bff011d5069d60e","x":530,"y":80,"width":250,"height":60,"type":"text","text":"Mar"},
+		{"id":"a7361b1369b3d93c","x":532,"y":186,"width":250,"height":60,"type":"text","text":"Tanque"}
+	],
+	"edges":[
+		{"id":"9121938a7ab03a6f","fromNode":"92f05e2bcede9916","fromSide":"right","toNode":"0c6f33e0a9eee201","toSide":"left"},
+		{"id":"e3b97d1dbb95f411","fromNode":"8cee9fd4b34bbb0d","fromSide":"right","toNode":"8a071131968e1f28","toSide":"left"},
+		{"id":"021b0844a4d6d965","fromNode":"8cee9fd4b34bbb0d","fromSide":"bottom","toNode":"5804882673b8a7c7","toSide":"left"},
+		{"id":"072143abe6b5bb14","fromNode":"5804882673b8a7c7","fromSide":"right","toNode":"24cba65cdb22d2c6","toSide":"left"},
+		{"id":"9e6982c291b56376","fromNode":"24cba65cdb22d2c6","fromSide":"top","toNode":"578e414a7ac17664","toSide":"bottom"},
+		{"id":"c75e6f2668e27e6a","fromNode":"5804882673b8a7c7","fromSide":"right","toNode":"119626c8e188eb79","toSide":"bottom"},
+		{"id":"f028c1cbbee684a2","fromNode":"119626c8e188eb79","fromSide":"top","toNode":"497af67768920d53","toSide":"bottom"},
+		{"id":"9b449350a2493ce1","fromNode":"5804882673b8a7c7","fromSide":"right","toNode":"9f0527dd9c2b9b87","toSide":"bottom"},
+		{"id":"d1cef831218ce497","fromNode":"9f0527dd9c2b9b87","fromSide":"top","toNode":"48ea5aaa346ee705","toSide":"bottom"},
+		{"id":"e7a9ad9642386f72","fromNode":"48ea5aaa346ee705","fromSide":"top","toNode":"5cd60fb83cea7c43","toSide":"bottom"},
+		{"id":"d9917cb7d5b77464","fromNode":"afafd9d8e400cf79","fromSide":"right","toNode":"a3bdce0628be4744","toSide":"left"},
+		{"id":"e7e033aa86ba9782","fromNode":"afafd9d8e400cf79","fromSide":"right","toNode":"a3bdce0628be4744","toSide":"left"},
+		{"id":"4aa0937caccf77a3","fromNode":"afafd9d8e400cf79","fromSide":"right","toNode":"8bff011d5069d60e","toSide":"left"},
+		{"id":"61eaf9b8fedf8cac","fromNode":"afafd9d8e400cf79","fromSide":"right","toNode":"a7361b1369b3d93c","toSide":"left"},
+		{"id":"734cfb15996ebf14","fromNode":"8cee9fd4b34bbb0d","fromSide":"bottom","toNode":"afafd9d8e400cf79","toSide":"left"}
+	]
+}

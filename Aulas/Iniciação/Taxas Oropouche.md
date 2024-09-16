@@ -1,0 +1,1 @@
+taxa de mortalidade = 0.02%

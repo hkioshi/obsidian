@@ -1,0 +1,3 @@
+[[Computável]]
+[[Contavel]]
+[[Decidível]]
