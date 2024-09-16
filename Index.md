@@ -6,6 +6,4 @@
 - ## [[TC - Index]] - Quinta
 - ## [[SO - Index]] - Sexta
 - ## [[IC - Index]] - Iniciação
-# [[Index - Cursos]]
-
 # [[Coisas à fazer]]

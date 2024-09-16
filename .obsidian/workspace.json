@@ -11,23 +11,6 @@
             "id": "6c14bfba792f7627",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Coisas à fazer.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "05db21be12a6fa90",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Index.md",
@@ -35,8 +18,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05db21be12a6fa90",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Cards Da Semana.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    false
+                  ]
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coisas à fazer.md",
+                "file": "Cards Da Semana.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coisas à fazer.md",
+                "file": "Cards Da Semana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coisas à fazer.md"
+                "file": "Cards Da Semana.md"
               }
             }
           },
@@ -193,21 +200,24 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-kanban:Criar um novo quadro": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Abrir paleta de comandos": false,
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "6c14bfba792f7627",
+  "active": "05db21be12a6fa90",
   "lastOpenFiles": [
+    "Coisas à fazer.md",
+    "Index.md",
+    "Aulas/Paradigma de Programação/Aula 2 - Tipos X Sistema de tipos - PP.md",
+    "Index - Cursos.md",
     "Aulas/Sistemas Operacionais/SO - Index.md",
     "Aulas/Paradigma de Programação/Aula 5 - Linguagem Funcional - PP.md",
-    "Pasted image 20240916171850.png",
+    "Dependencias/Pasted image 20240916171850.png",
     "Dependencias/Pasted image 20240916171802.png",
     "Aulas/Paradigma de Programação/PP - Index.md",
     "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script - PP.md",
-    "Coisas à fazer.md",
     "Cards Da Semana.md",
     "Aulas/Sistemas Operacionais/Aula 1 - Instalar Alpine - SO.md",
     "Aulas/Sistemas Operacionais/Alpine.md",
@@ -226,8 +236,6 @@
     "Aulas/Ciencias de dados/Aula 2 - Wrangling - CD.md",
     "Aulas/Ciencias de dados/Aula 4.1 - Drill-down - CD.md",
     "Aulas/Ciencias de dados/CD - Index.md",
-    "Aulas/Ciencias de dados/Aula 4.6 - Operações de Cubo em PostgreSQL - CD.md",
-    "Aulas/Ciencias de dados/Aula 4.2 - Roll-Up - CD.md",
     "Dependencias/cap08.pdf",
     "Sem título.canvas",
     "Dependencias/Pasted image 20240913214030.png",

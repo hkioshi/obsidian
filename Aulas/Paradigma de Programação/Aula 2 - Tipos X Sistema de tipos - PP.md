@@ -11,7 +11,7 @@
 - Coerções
 	- Algumas operações eu aceito entre tipos, e retorna um tipo
 	- Coersao implicita e explicita
-	- Ex: C# [[1.1.1 Typecast]] 
+	- Ex: C# 
 - Imutabilidades
 
 # Tipo Primitivo

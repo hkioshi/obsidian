@@ -1,3 +1,0 @@
-- ## Linguagem Tipada
-	- Variaveis so podem guardar dados do tipo que foram declarados
-	- 
