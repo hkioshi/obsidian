@@ -1,0 +1,3 @@
+- Por que estudar maquina de Turing?
+	- Noção intuitiva de algoritmos = Algoritmos de maquina de Turing
+- Esta equivalência não pode ser provada, até agora nenhum algoritmo foi encontrado que não pudesse ser implementado em uma maquina de Turing.

@@ -1,0 +1,21 @@
+- Hipótese Nula (H0) 
+	- É uma afirmação que indica que não há efeito ou diferença
+- Hipótese alternativa ($H \tiny a$)
+	- afirma que há um efeito ou diferença. Em um teste estatístico, você testa a hipótese nula para decidir se deve rejeitá-la em favor da hipótese alternativa.
+
+# Teste AB
+- ## AB baseado em Proporções
+	- Resultado esperado
+	- Proporções 
+		- 50% / 50% (Ideal)
+		- 90%/10% | 80%/20% | ... 
+			- quanto maior a diferença da proporção, menos confiável
+	- $H \tiny 0$: Conversão de A $\geq$ Conversão de B
+	- $H \tiny a$: Conversão de A $<$ Conversão de B
+	- ### Erros
+		- Erro tipo 1 
+			- Escolhe ConvB erroneamente $\rightarrow \alpha$
+		- Erro tipo 2
+			- Escolhe ConvA erroneamente $\rightarrow \beta \rightarrow (1 - \beta)\rightarrow$ poder do teste
+			- 
+			- 

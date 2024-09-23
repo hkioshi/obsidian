@@ -1,2 +1,2 @@
 taxa de mortalidade = 0.02%
-Taxa de incidência = 1.1 para 1000 habitantes
+Taxa de incidência = 0.11%

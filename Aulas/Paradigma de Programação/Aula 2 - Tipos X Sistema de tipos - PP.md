@@ -21,7 +21,7 @@
 	- Objetos pode ser um tipo primitivo
 		- Instaciação, herana, etc
 	- Funçoes pode ser tipo
-		- [[1.7 lambda]]
+		- p.ex.: lambda
 - Como descobrir
 	- Ler documentação
 	- [Documentação do C#](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)

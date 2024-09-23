@@ -1,3 +1,4 @@
+[[aula02_TC.pdf]]
 # Atividade 1 - [[Atividade 1 - TC - Aula 2.canvas|Atividade 1 - TC - Aula 2]]
 L = { W E {0,1}*  |  w = 10\*1}
 

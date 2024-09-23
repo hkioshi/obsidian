@@ -1,0 +1,1 @@
+Em Teoria da Computação, algo é considerado contável (ou enumerável) se seus elementos podem ser listados ou colocados em correspondência um-para-um com os números naturais, ou seja, existe uma função bijetora entre o conjunto e os números naturais. Exemplos incluem o conjunto dos números inteiros, racionais, e palavras de um alfabeto finito.

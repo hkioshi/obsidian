@@ -1,4 +1,5 @@
-# [[Alpine]]
+[https://senacsp.blackboard.com/ultra/courses/_248945_1/cl/outline]
+# [[Alpine - aula]]
 # [[Aula 1 - Instalar Alpine - SO]]
 # [[Aula 2 - Configurar Alpine -SO]]
 

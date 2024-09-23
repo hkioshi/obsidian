@@ -1,2 +1,0 @@
-- usuario: hkioshi
-- senha: l0ogport

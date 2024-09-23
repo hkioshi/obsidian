@@ -1,6 +1,6 @@
 [[Introducao a Teoria da Computacao (Z-lib.io).pdf]]
-# [[Aula 1 - Slide 0 - TC]]
-# [[Aula 1 - Slide 1 -TC]]
+# [[Aula 0 - Introdução - TC]]
+# [[Aula 1 - Maquina de Turing -TC]]
 # [[Aula 2 - Slide 1 - TC]]
 
 # [[Aula 3 - Slide 1 - TC]]
