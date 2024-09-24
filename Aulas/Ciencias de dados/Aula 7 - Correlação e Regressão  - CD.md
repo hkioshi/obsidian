@@ -1,3 +1,4 @@
+[Codigo](https://colab.research.google.com/drive/1hz72aSEDBkJmwkxVOvv8lxRfysx89FUQ#scrollTo=LFCTOeaOVIX8)
 [Aula-Slide](https://dados.crivelaro.me/07-correlacao-regressao.html#/title-slide)
 # Inferência Estatística
 ## Correlação de Pearson

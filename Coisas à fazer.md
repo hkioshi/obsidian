@@ -4,13 +4,22 @@ kanban-plugin: board
 
 ---
 
+## tarefas
+
+
+
 ## Tarefas Não Urgentes
 
 **Concluído**
+- [x] Trabalho TC
+- [x] Prova - 14/10 - PP
+- [x] Prova - 7/10 - CD
 
 
 ## Tarefas Urgentes
 
+- [ ] Iniciação
+- [ ] Trabalho SO
 
 
 ***
@@ -28,6 +37,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

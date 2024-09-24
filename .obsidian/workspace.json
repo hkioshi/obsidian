@@ -8,29 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f12e8f728becd5c0",
+            "id": "64edd8a05bac46c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "64edd8a05bac46c0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Index Principal.canvas",
-                "viewState": {
-                  "x": -468,
-                  "y": 614.5,
-                  "zoom": -0.37263565528612524
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md"
+                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md"
               }
             }
           },
@@ -196,58 +181,57 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "bbab08f8c36b2da7",
+  "active": "64edd8a05bac46c0",
   "lastOpenFiles": [
-    "Dependencias/Pasted image 20240923195448.png",
+    "Aulas/Paradigma de Programação/PP - Index.md",
     "Index Principal.canvas",
-    "Aulas/Teoria da computação/Aula 1.2 - Linguagem Turing-Decidível - TC.md",
-    "Aulas/Teoria da computação/Aula 1.1 - MT Reconhecível - TC.md",
-    "Aulas/Teoria da computação/Aula 1 - Maquina de Turing -TC.md",
-    "Aulas/Teoria da computação/Aula 1.3 - Tese de Church Turing - TC.md",
-    "Dependencias/Aulas - SO/cap08.pdf",
-    "Dependencias/Aulas - SO",
-    "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
-    "Dependencias/Aulas - TC/material - TC",
-    "Dependencias/Aulas - SO/cap09.pdf",
-    "Dependencias/Aulas - TC/Atividade 1 - TC - Aula 2.canvas",
-    "Dependencias/artigos - IC/2024-fevereiro-02-phe-alerta-oropouche-por-final.pdf",
-    "Dependencias/artigos - IC",
-    "Sem título.canvas",
-    "Dependencias/artigos - IC/reemergence of oropouche_2007.pdf",
-    "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
-    "Dependencias/artigos - IC/viruses-10-00175 (1).pdf",
-    "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+    "Dependencias/Aulas - PP/05.1 - Linguagens Funcionais - Funções Parciais.pdf",
+    "Dependencias/Aulas - PP",
+    "Dependencias/Aulas - SO/SENAC 2024-2 COMP SO Conceitos Básicos.pdf",
+    "Aulas/Ciencias de dados/Aula 3 - OLAP Cubo - CD.md",
+    "Aulas/Ciencias de dados/Aula 6 - Teste AB - CD.md",
+    "Aulas/Ciencias de dados/Aula 4.4 - Dice - CD.md",
+    "Aulas/Ciencias de dados/Aula 3.3 - Star Schema - CD.md",
+    "Aulas/Sistemas Operacionais/Aula 6 - SO.md",
+    "Coisas à fazer.md",
     "Aulas/Sistemas Operacionais/SO - Index.md",
+    "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
+    "Aulas/Paradigma de Programação/Aula 6 - Linguagem Funcional 2 - PP.md",
+    "Aulas/Paradigma de Programação/Aula 5 - Linguagem Funcional - PP.md",
+    "Aulas/Teoria da computação/Aula 1.3 - Tese de Church Turing - TC.md",
+    "Aulas/Teoria da computação/Aula 1 - Maquina de Turing - TC.md",
+    "Aulas/Teoria da computação/Aula 1.1 - MT Reconhecível - TC.md",
+    "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
+    "Sem título.canvas",
+    "Ex_Correlação_e_Regressão 2.ipynb",
+    "Ex_Correlação_e_Regressão 1.ipynb",
+    "Ex_Correlação_e_Regressão.ipynb",
+    "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+    "Dependencias/artigos - IC/2024-fevereiro-02-phe-alerta-oropouche-por-final.pdf",
+    "Aulas/Iniciação/IC - Index.md",
+    "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
+    "Aulas/Ciencias de dados/Aula 5 - Testes estatisticos - CD.md",
+    "Dependencias/Pasted image 20240923195448.png",
+    "Aulas/Teoria da computação/Aula 1.2 - Linguagem Turing-Decidível - TC.md",
+    "Dependencias/Aulas - SO/cap08.pdf",
+    "Dependencias/Aulas - TC/Atividade 1 - TC - Aula 2.canvas",
     "Aulas/Sistemas Operacionais/Alpine - aula.md",
     "Aulas/Ciencias de dados/CD - Index.md",
-    "Coisas à fazer.md",
     "Index - Principal.md",
     "Aulas/Teoria da computação/Aula 2 - Slide 1 - TC.md",
     "aula01_TC.pdf.md",
     "Aulas/Teoria da computação/Aula 0 - Introdução - TC.md",
     "Aulas/Teoria da computação/Conceitos/Decidível - conceito.md",
-    "Aulas/Teoria da computação/Conceitos/Reconhecível - Conceito.md",
-    "Aulas/Teoria da computação/Conceitos/Conceitos - Index.md",
-    "Aulas/Teoria da computação/Aula 4 - Capitulo 4 - Parte 1- TC.md",
-    "Aulas/Teoria da computação/Aula 5 - Capitulo 4 - Parte 2 - TC.md",
-    "Aulas/Teoria da computação/Aula 3 - Slide 1 - TC.md",
     "Dependencias/Pasted image 20240830113257.png",
     "Dependencias/Pasted image 20240830113012.png",
     "Dependencias/Pasted image 20240913211622.png",
     "Dependencias/Projetinho.canvas",
-    "Aulas/Iniciação/Taxas Oropouche.md",
-    "Aulas/Iniciação/Ficha - Febre Oropouche.md",
-    "Aulas/Paradigma de Programação/Aula 1.1 Compilado X Interpretado - PP.md",
-    "Aulas/Iniciação/IC - Index.md",
-    "Aulas/Paradigma de Programação/Aula 6 - Funcional 2  - PP.md",
-    "Cards Da Semana.md",
     "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/images.jpeg",
     "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/IMG_0667.jpeg",
     "Dependencias/Pasted image 20240916171850.png",
     "Dependencias/Pasted image 20240916171802.png",
     "Dependencias/Pasted image 20240913214030.png",
     "Dependencias/Pasted image 20240913212904.png",
-    "Dependencias/Pasted image 20240913212846.png",
     "Dependencias/Atividade 1 - CD.canvas"
   ]
 }

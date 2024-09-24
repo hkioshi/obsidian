@@ -6,3 +6,6 @@
 # [[Aula 4 - Linguagem de Sistema - PP]]
 
 # [[Aula 5 - Linguagem Funcional - PP]]
+
+# [[Aula 7 - Linguagem Funcional 3 - PP]]
+
