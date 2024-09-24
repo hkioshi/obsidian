@@ -1,0 +1,2 @@
+- O artigo alerta sobre a emergência do Oropouche
+- Dados de quantos infectados e de tempo

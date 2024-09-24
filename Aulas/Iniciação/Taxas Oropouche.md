@@ -1,2 +1,6 @@
-taxa de mortalidade = 0.02%
-Taxa de incidência = 0.11%
+- **Taxa de mortalidade** = 0.02%
+- **Taxa de incidência** = 0.11%
+- **Período de incubação:** 4 a 8 dias (variação de 3 a 12 dias).
+- **Sintomas persistentes:** Febre, dor de cabeça, artralgia, mialgia, calafrios, náuseas e vômitos podem durar até 5 a 7 dias.
+- **Recuperação:** A maioria dos casos se recupera em 7 dias.
+- **Convalescença prolongada:** Em alguns pacientes, pode durar semanas.
