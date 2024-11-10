@@ -1,4 +1,4 @@
-- [[aula01_TC.pdf]]
+u [[aula01_TC.pdf]]
 # Tese de Church Turing - Sumario
 - ## Maquina de Turing
 - ## [[Aula 1.1 - MT Reconhecível - TC]] - [[Reconhecível - Conceito]]

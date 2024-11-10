@@ -4,37 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9280ffc653cb6b30",
+        "id": "dc98326bdafb7781",
         "type": "tabs",
         "children": [
           {
-            "id": "64edd8a05bac46c0",
+            "id": "05f23cff25e3e21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Iniciação/IC - Index.md",
+                "file": "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Resumo - P2 - 8 a 13 - CD"
             }
           },
           {
-            "id": "ada13c1786f35c7c",
+            "id": "84d7b94046dd5074",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "Coisas à fazer.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+                "file": "Dependencias/Aulas - TC/aula05_TC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "aula05_TC"
             }
           }
         ],
@@ -58,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -67,13 +65,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "decidive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -81,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coisas à fazer.md",
+                "file": "Aulas/Sistemas Operacionais/SO - Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para SO - Index"
             }
           },
           {
@@ -121,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coisas à fazer.md",
+                "file": "Aulas/Sistemas Operacionais/SO - Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para SO - Index"
             }
           },
           {
@@ -135,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -144,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coisas à fazer.md"
-              }
+                "file": "Aulas/Sistemas Operacionais/SO - Index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de SO - Index"
             }
           },
           {
@@ -153,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -161,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -169,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "khoj-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -177,10 +193,183 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "a5e53b0c34f36d72",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5b523e6012312f52",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "70685075e4a8f28d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ecf1434ca84e0a10",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ec9c54179a9e8f71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "584ecd56da490427",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c33e70503df4f81e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "19ad08e90e642510",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7607685c4684e646",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "51caf953d9416e2e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "b061a3a48f57db0a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "5584959503be382c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e91be29ef25e31a1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "24b7f1f78bec54cc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "e17f1037c3de4fa3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "ae4209e4435469b6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "4ea3d35965fe039d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
-        ]
+        ],
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -197,61 +386,64 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "bbab08f8c36b2da7",
+  "active": "4ea3d35965fe039d",
   "lastOpenFiles": [
-    "Dependencias/Codigo.ipynb",
-    "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
-    "Sem título.canvas",
-    "Sem título.md",
-    "Dependencias/Reconhecimento_de_Rosto_e_Treinamento_Keras.ipynb",
-    "Aulas/Iniciação/IC - Index.md",
-    "Aulas/Iniciação/Ficha - Febre Oropouche.md",
-    "Aulas/Iniciação/artigo 3 - Analise.md",
-    "Aulas/Iniciação/artigo 4 - Analise.md",
-    "Dependencias/artigos - IC/viruses-10-00175 (1).pdf",
-    "Aulas/Iniciação/artigo 2 - Analise.md",
-    "Dependencias/artigos - IC/reemergence of oropouche_2007.pdf",
-    "Dependencias/artigos - IC/2024-fevereiro-02-phe-alerta-oropouche-por-final.pdf",
-    "Aulas/Iniciação/artigo 1 - Analise.md",
-    "Aulas/Iniciação/Taxas Oropouche.md",
-    "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
-    "Aulas/Paradigma de Programação/PP - Index.md",
-    "Index Principal.canvas",
-    "Dependencias/Aulas - PP/05.1 - Linguagens Funcionais - Funções Parciais.pdf",
-    "Dependencias/Aulas - PP",
-    "Dependencias/Aulas - SO/SENAC 2024-2 COMP SO Conceitos Básicos.pdf",
-    "Aulas/Ciencias de dados/Aula 3 - OLAP Cubo - CD.md",
-    "Aulas/Ciencias de dados/Aula 6 - Teste AB - CD.md",
-    "Aulas/Ciencias de dados/Aula 4.4 - Dice - CD.md",
-    "Aulas/Ciencias de dados/Aula 3.3 - Star Schema - CD.md",
-    "Aulas/Sistemas Operacionais/Aula 6 - SO.md",
-    "Coisas à fazer.md",
-    "Aulas/Sistemas Operacionais/SO - Index.md",
-    "Aulas/Paradigma de Programação/Aula 6 - Linguagem Funcional 2 - PP.md",
-    "Aulas/Paradigma de Programação/Aula 5 - Linguagem Funcional - PP.md",
-    "Aulas/Teoria da computação/Aula 1.3 - Tese de Church Turing - TC.md",
-    "Aulas/Teoria da computação/Aula 1 - Maquina de Turing - TC.md",
-    "Aulas/Teoria da computação/Aula 1.1 - MT Reconhecível - TC.md",
-    "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
-    "Ex_Correlação_e_Regressão 2.ipynb",
-    "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
-    "Aulas/Ciencias de dados/Aula 5 - Testes estatisticos - CD.md",
-    "Dependencias/Pasted image 20240923195448.png",
+    "Aulas/Teoria da computação/Aula 6 -.md",
+    "Aulas/Teoria da computação/Sem título.md",
+    "Aulas/Teoria da computação/Aula 5 - Capitulo 4 - Parte 2 - TC.md",
     "Aulas/Teoria da computação/Aula 1.2 - Linguagem Turing-Decidível - TC.md",
+    "Aulas/Teoria da computação/Conceitos/Computável - conceito.md",
+    "Dependencias/Aulas - TC/aula06_TC.pdf",
+    "Dependencias/Aulas - TC/aula05_TC.pdf",
+    "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
+    "Processos.md",
+    "Coisas à fazer.md",
+    "Sem título.canvas",
+    "Recording 20241108193053.webm",
+    "Recording 20241108193208.webm",
+    "Dependencias/Aulas - CD/09 - NOSQL.pdf",
+    "Aulas/Ciencias de dados/Resumo P1 - 1 a 8 - CD.md",
+    "Aulas/Ciencias de dados/CD - Index.md",
+    "Aulas/Ciencias de dados/Aula 1 - Scrapping - CD.md",
+    "Aulas/Ciencias de dados/Aula 9 - SQL Mongo.md",
+    "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
+    "Aulas/Ciencias de dados/Aula 6 - Teste AB - CD.md",
+    "Aulas/Ciencias de dados/Aula 5 - Testes estatisticos - CD.md",
+    "Aulas/Ciencias de dados/Aula 4.5 - Pivot - CD.md",
+    "Aulas/Ciencias de dados/Aula 4.3 - Slice -CD.md",
+    "Aulas/Ciencias de dados/Aula 3.3 - Star Schema - CD.md",
+    "Aulas/Ciencias de dados/Aula 3.2 - OLTP e OLAP - CD.md",
+    "Aulas/Ciencias de dados/Aula 3 - OLAP Cubo - CD.md",
+    "Aulas/Ciencias de dados/Aula 3.1 - Cubo - CD.md",
+    "Aulas/Ciencias de dados/Aula 4.4 - Dice - CD.md",
+    "Aulas/Ciencias de dados/Aula 8 - NOSQL - CD.md",
+    "Aulas/Iniciação/artigo 4 - Analise.md",
+    "Aulas/Iniciação/artigo 3 - Analise.md",
+    "Aulas/Iniciação/Coisas a fazer.md",
+    "Dependencias/Aulas - TC/aula04_TC.pdf",
+    "Dependencias/Aulas - TC/aula01_TC.pdf",
+    "Dependencias/Aulas - TC/lista01_TC.pdf",
+    "Dependencias/Pasted image 20240905160132.png",
+    "Dependencias/Pasted image 20240913212754.png",
     "Dependencias/Aulas - TC/Atividade 1 - TC - Aula 2.canvas",
-    "Dependencias/Pasted image 20240830113257.png",
-    "Dependencias/Pasted image 20240830113012.png",
-    "Dependencias/Pasted image 20240913211622.png",
+    "Dependencias/Aulas - PP/05.1 - Linguagens Funcionais - Funções Parciais.pdf",
+    "Dependencias/Aulas - CD/09 - NOSQL 2.pptx",
+    "go-logo-white.svg",
+    "Dependencias/Pasted image 20240913212823.png",
+    "Dependencias/Pasted image 20240913201231.png",
+    "Index Principal.canvas",
+    "Sem título 1.canvas",
+    "Dependencias/Pasted image 20240913212457.png",
+    "Dependencias/Pasted image 20240905154801.png",
+    "Dependencias/Pasted image 20240905171150.png",
+    "Dependencias/Pasted image 20240913211551.png",
+    "Dependencias/Pasted image 20240913212515.png",
     "Dependencias/Projetinho.canvas",
-    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/images.jpeg",
-    "Aulas/Processamento de Imagem/Processamento de imagens/Imagens/IMG_0667.jpeg",
-    "Dependencias/Pasted image 20240916171850.png",
-    "Dependencias/Pasted image 20240916171802.png",
-    "Dependencias/Pasted image 20240913214030.png",
-    "Dependencias/Pasted image 20240913212904.png",
     "Dependencias/Atividade 1 - CD.canvas"
   ]
 }

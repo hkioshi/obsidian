@@ -1,0 +1,74 @@
+Quando o computador faz processos
+- inicializa o Linux
+- carregar o SO
+- começa a execução
+	- Processos n1 e depois todos o resto
+
+- Processo != Programa
+	- Programa é uma entidade estática e permanente e pode ser executada
+		- seq. de instruções a ser executada pelo SO
+		- passivo sob ponto de vista do SO
+		- Armazenado em memoria secundaria
+
+- Processos 
+	- entidade dinâmica
+		- ao longo do tempo a representação vai mudando
+	- Efêmero
+		- Transitório
+	- Conjunto de instruções + dados e contextos
+	- processo é um programa em execução
+	- um programa pode ser executada varias vezes, vários processos acontecendo em paralelo do mesmo programa
+		- mesmo código, instâncias diferentes, apenas muda os dados e o contexto
+	- Podem se referir a:
+		- Software utilizado elo usuário final - Excel
+		- Software do próprio SO 
+			- Serviços(Windows) 
+			- Daemons(Linux)
+	- Sessões 
+		- Texto: instruções a serem executadas
+		- Pilha de execução 
+			- Dados temporários
+			- variáveis locais
+			- endereços de retorno
+		- dados 
+			- Contem variáveis globais
+				- Inicializados(tem valor inicial)
+				- Não inicializados(BSS)(não tem valor inicial)
+		- Heap
+			- Memoria alocada dinamicamente
+
+Ciclo de vida de um processo
+- Criação
+	- Momento da execução
+	- Chamada de sistema
+	- podem ser associados a uma sessao de trabalho
+		- Loguin
+	- Possui identificador unico(um numero, no linux(lista encadeada))
+- Execução
+	- 2 ciclos de operação basicos
+		- tempo que usa o processador = ciclo de Processador
+		- Tempo que usa para esperar acabar o evento E/S = Ciclo de E/S
+	- Primerio ciclo de é semrpe do processador
+		- Pra chamar o E/S
+	- Mecanismo de p/ troca de ciclos
+		- CPU -> E/S
+			- SistemCall
+		- E/S -> CPU
+			- Interrupção(trap)
+		
+- Morte
+	- Por erros
+		- dividir por 0, falta de memoriam timeout, etc.
+	- Intevenção de outros processos
+		- kill
+	- Finalização pelo proprio usuario
+
+- Processos e siscall
+	- Syscall - linux
+		- Fork - Processo cria um filho
+		- exec - Substitui o programa executado por um processos
+			- "ta la o carinha e ele vira outro"
+		- exit - Sai
+		- wait - Suspende ate outro processo termine
+	- Familia exec
+		- 

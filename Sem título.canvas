@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"fe2bdddc6cf44b0f","type":"text","text":"oropouche","x":-168,"y":-241,"width":250,"height":60},
+		{"id":"02725d4cf4bedfe9","type":"text","text":"pessoa","x":-172,"y":17,"width":250,"height":60},
+		{"id":"eff7da6c7fcb282d","type":"text","text":"poça","x":103,"y":19,"width":250,"height":60},
+		{"id":"7bb2d62d694c00ad","type":"text","text":"numero de ovos","x":344,"y":152,"width":250,"height":60},
+		{"id":"b5baf507b720a9e5","type":"text","text":"x/y","x":347,"y":218,"width":250,"height":60},
+		{"id":"77aa9ea77d8d94c2","type":"text","text":"mosquito","x":-551,"y":-135,"width":250,"height":60},
+		{"id":"411fdc02c19d1b32","type":"text","text":"tempo de vida\n","x":-175,"y":144,"width":250,"height":50},
+		{"id":"6d75e021a2bf0127","type":"text","text":"idade","x":-174,"y":202,"width":250,"height":60},
+		{"id":"cc18a7f2436a60a0","type":"text","text":"dias doente","x":-174,"y":272,"width":250,"height":60},
+		{"id":"6208c4398620d489","type":"text","text":"infectado?","x":-173,"y":340,"width":250,"height":60},
+		{"id":"c452da351f25e109","type":"link","url":"https://go.dev/play/p/IKo-FkQUqGr","x":-629,"y":15,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e3b988657ecf78a7","fromNode":"fe2bdddc6cf44b0f","fromSide":"left","toNode":"77aa9ea77d8d94c2","toSide":"top"},
+		{"id":"f3dc7da918e8c590","fromNode":"fe2bdddc6cf44b0f","fromSide":"bottom","toNode":"02725d4cf4bedfe9","toSide":"top"},
+		{"id":"d9acd406e26c8b77","fromNode":"fe2bdddc6cf44b0f","fromSide":"right","toNode":"eff7da6c7fcb282d","toSide":"top"},
+		{"id":"a5d1eb697af8aa33","fromNode":"eff7da6c7fcb282d","fromSide":"bottom","toNode":"7bb2d62d694c00ad","toSide":"left"},
+		{"id":"3f99bf5986016167","fromNode":"eff7da6c7fcb282d","fromSide":"bottom","toNode":"b5baf507b720a9e5","toSide":"left"},
+		{"id":"a1fc1a2bbffd9096","fromNode":"02725d4cf4bedfe9","fromSide":"left","toNode":"411fdc02c19d1b32","toSide":"left"},
+		{"id":"28a7f7643b5262e2","fromNode":"02725d4cf4bedfe9","fromSide":"left","toNode":"6d75e021a2bf0127","toSide":"left"},
+		{"id":"a52a0765bf7dd0dc","fromNode":"02725d4cf4bedfe9","fromSide":"left","toNode":"cc18a7f2436a60a0","toSide":"left"},
+		{"id":"c690c4976f4a11ff","fromNode":"02725d4cf4bedfe9","fromSide":"left","toNode":"6208c4398620d489","toSide":"left"}
+	]
+}

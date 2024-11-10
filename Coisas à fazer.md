@@ -4,22 +4,30 @@ kanban-plugin: board
 
 ---
 
-## tarefas
+## tarefas Não urgenete
 
-
-
-## Tarefas Não Urgentes
-
-**Concluído**
-- [x] Trabalho TC
-- [x] Prova - 14/10 - PP
-- [x] Prova - 7/10 - CD
+- [ ] Trabalho SO
+- [ ] PI - Revisar
+- [ ] Utiny - CG
+- [ ] Notas CD
+- [ ] Notas PP
+- [ ] Notas CG
+- [ ] Notas Pi
+- [ ] Aulas de DW - Udemy
+- [ ] Cst - Sumup
 
 
 ## Tarefas Urgentes
 
+- [ ] Tarefas de CD
+- [ ] Tarefas de PP
+- [ ] Notas SO
+- [ ] Notas TC
+
+
+## Sendo Feito
+
 - [ ] Iniciação
-- [ ] Trabalho SO
 
 
 ***
@@ -34,6 +42,9 @@ kanban-plugin: board
 - [ ] - [ ] TC - Lista 1
 - [ ] - [ ] TC - Lista 2
 - [ ] - [ ] Unificar linguagem
+- [x] Trabalho TC
+- [x] Prova - 14/10 - PP
+- [x] Prova - 7/10 - CD
 
 %% kanban:settings
 ```

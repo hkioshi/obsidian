@@ -1,0 +1,7 @@
+- artigo
+- boas praticas
+- linhas coloridas
+- llf
+- novos casos por semana
+- arrumar graficos
+- 
