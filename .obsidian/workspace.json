@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
+                "file": "Aulas/Paradigma de Programação/Resumo prova 2 Aulas 10 a 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 7 - Linguagem Funcional 3 - PP"
+              "title": "Resumo prova 2 Aulas 10 a 13"
             }
           }
         ],
@@ -534,14 +534,16 @@
   },
   "active": "7eb7ce72228e468d",
   "lastOpenFiles": [
+    "Dependencias/Aulas - PP/07.2 - Concorrência - Corrotinas.pdf",
     "Aulas/Paradigma de Programação/Aula 8 - Concorrencia - PP.md",
-    "Aulas/Paradigma de Programação/PP - Index.md",
+    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pdf",
+    "Dependencias/Aulas - PP/Sem título.md",
     "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
+    "Aulas/Paradigma de Programação/PP - Index.md",
     "Aulas/Paradigma de Programação/Aula 6 - Linguagem Funcional 2 - PP.md",
     "Aulas/Paradigma de Programação/Aula 1.1 Compilado X Interpretado - PP.md",
     "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script - PP.md",
     "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema - PP.md",
-    "Dependencias/Aulas - PP/07.2 - Concorrência - Corrotinas.pdf",
     "Aulas/Paradigma de Programação/Resumo prova 2 Aulas 10 a 13.md",
     "Dependencias/Aulas - PP/07.0 - Concorrência - Processos e Threads.pdf",
     "Aulas/Computação grafica/CG - Index.md",
@@ -561,8 +563,6 @@
     "Index Principal.canvas",
     "Aulas/Sistemas Operacionais/Aula 11 - Processos - SO.md",
     "Aulas/Sistemas Operacionais/Aula 10 - Syscall - SO.md",
-    "Aulas/Sistemas Operacionais/Aula 9 - Como compilar o kernel do Linux - SO.md",
-    "Aulas/Ciencias de dados/Aula 8 - NOSQL - CD.md",
     "Dependencias/Aulas - CD/09 - NOSQL.pdf",
     "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
     "Sem título.canvas",
@@ -571,7 +571,6 @@
     "Dependencias/Pasted image 20240905154801.png",
     "Dependencias/artigos - IC/reemergence of oropouche_2007.pdf",
     "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
-    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pdf",
     "Dependencias/Aulas - PP/09 - Linguagens Lógica 1.pptx",
     "Dependencias/Aulas - PP/09 - Linguagens Lógica.pptx",
     "Dependencias/Aulas - TC/09 - Linguagens Lógica.pptx",
