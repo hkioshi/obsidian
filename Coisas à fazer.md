@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## tarefas Não urgenete
 
-- [ ] Trabalho SO
-- [ ] PI - Revisar
+- [x] Trabalho SO
+- [x] PI - Revisar
 - [ ] Utiny - CG
-- [ ] Notas CD
-- [ ] Notas PP
-- [ ] Notas CG
-- [ ] Notas Pi
+- [x] Notas CD
+- [x] Notas PP
+- [x] Notas CG
+- [x] Notas Pi
 - [ ] Aulas de DW - Udemy
-- [ ] Cst - Sumup
 
 
 ## Tarefas Urgentes
@@ -45,6 +44,7 @@ kanban-plugin: board
 - [x] Trabalho TC
 - [x] Prova - 14/10 - PP
 - [x] Prova - 7/10 - CD
+- [x] Cst - Sumup
 
 %% kanban:settings
 ```

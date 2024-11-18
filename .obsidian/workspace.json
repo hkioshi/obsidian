@@ -11,28 +11,13 @@
             "id": "05f23cff25e3e21a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Sem título 2.md",
-                "mode": "source",
-                "source": false
+                "file": ".trash/Sem título 2 2.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Sem título 2"
-            }
-          },
-          {
-            "id": "d28e96eb3041fcf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "().md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "()"
+              "icon": "git-pull-request",
+              "title": "Diff View (Sem título 2 2)"
             }
           },
           {
@@ -75,8 +60,7 @@
               "title": "Resumo prova 2 Aulas 10 a 13"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +230,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -266,8 +250,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -276,8 +260,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -286,8 +270,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -296,8 +280,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -306,8 +290,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -376,8 +360,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           },
           {
@@ -532,40 +516,42 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "7eb7ce72228e468d",
+  "active": "05f23cff25e3e21a",
   "lastOpenFiles": [
-    "Dependencias/Aulas - PP/07.2 - Concorrência - Corrotinas.pdf",
-    "Aulas/Paradigma de Programação/Aula 8 - Concorrencia - PP.md",
-    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pdf",
-    "Dependencias/Aulas - PP/Sem título.md",
-    "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
-    "Aulas/Paradigma de Programação/PP - Index.md",
-    "Aulas/Paradigma de Programação/Aula 6 - Linguagem Funcional 2 - PP.md",
-    "Aulas/Paradigma de Programação/Aula 1.1 Compilado X Interpretado - PP.md",
-    "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script - PP.md",
-    "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema - PP.md",
-    "Aulas/Paradigma de Programação/Resumo prova 2 Aulas 10 a 13.md",
-    "Dependencias/Aulas - PP/07.0 - Concorrência - Processos e Threads.pdf",
-    "Aulas/Computação grafica/CG - Index.md",
-    "Aulas/Computação grafica/Pitch, yaw, roll.md",
-    "Aulas/Ciencias de dados/Aula 4.6 - Operações de Cubo em PostgreSQL - CD.md",
-    "Aulas/Iniciação/artigo 4 - Analise.md",
-    "Aulas/Iniciação/IC - Index.md",
-    "Aulas/Iniciação/Ficha - Febre Oropouche.md",
-    "Aulas/Iniciação/Template - Contecsi.md",
-    "Aulas/Iniciação/Artigo - Rascunho.md",
-    "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
-    "Aulas/Ciencias de dados/CD - Index.md",
-    "Aulas/Ciencias de dados/Aula 14 - Series Temporais 2 - CD.md",
-    "Sem título 2.md",
-    "Sem título 3.md",
-    "Sem título.md",
+    "Aulas/Iniciação/artigo 1 - Analise.md",
+    "Aulas/Iniciação/artigo 3 - Analise.md",
+    "Coisas à fazer.md",
     "Index Principal.canvas",
-    "Aulas/Sistemas Operacionais/Aula 11 - Processos - SO.md",
+    "Aulas/Teoria da computação/Aula 4 - Capitulo 4 - Parte 1- TC.md",
+    "Aulas/Teoria da computação/TC - Pendencias.md",
+    "Aulas/Teoria da computação/Aula 5 - Capitulo 4 - Parte 2 - TC.md",
+    "Aulas/Teoria da computação/Aula 2 - Slide 1 - TC.md",
+    "Aulas/Teoria da computação/Aula 1.2 - Linguagem Turing-Decidível - TC.md",
+    "Aulas/Teoria da computação/Aula 3 - Slide 1 - TC.md",
+    "Aulas/Teoria da computação/Aula 6 -.md",
+    "Aulas/Teoria da computação/TC - Index.md",
+    "Aulas/Teoria da computação/Sem título.md",
+    "Aulas/Processamento de Imagem/Aula 1 - Pi.md",
+    "Aulas/Paradigma de Programação/Resumo prova 2 Aulas 10 a 13.md",
+    "Aulas/Paradigma de Programação/Aula 8 - Concorrencia - PP.md",
+    "Aulas/Sistemas Operacionais/SO - Index.md",
+    "Aulas/Sistemas Operacionais/Aula 1 - Instalar Alpine - SO.md",
+    "Aulas/Sistemas Operacionais/Alpine - aula.md",
     "Aulas/Sistemas Operacionais/Aula 10 - Syscall - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 11 - Processos - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 9 - Como compilar o kernel do Linux - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 7 - SO.md",
+    "Dependencias/Aulas - SO/SENAC 2024-2 COMP SO Conceitos Básicos.pdf",
+    "Aulas/Sistemas Operacionais/Aula 6 - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 5.1 - Autenticação - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 5 - Segurança - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 4 - MBr - SO.md",
+    "Aulas/Iniciação/Oropouche - Ordem pra fazer.canvas",
+    "Dependencias/Aulas - PP/07.2 - Concorrência - Corrotinas.pdf",
+    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pdf",
+    "Dependencias/Aulas - PP/07.0 - Concorrência - Processos e Threads.pdf",
     "Dependencias/Aulas - CD/09 - NOSQL.pdf",
     "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
-    "Sem título.canvas",
     "Dependencias/Pasted image 20240916171850.png",
     "Dependencias/Pasted image 20240913212457.png",
     "Dependencias/Pasted image 20240905154801.png",
@@ -573,7 +559,6 @@
     "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
     "Dependencias/Aulas - PP/09 - Linguagens Lógica 1.pptx",
     "Dependencias/Aulas - PP/09 - Linguagens Lógica.pptx",
-    "Dependencias/Aulas - TC/09 - Linguagens Lógica.pptx",
     "Dependencias/Pasted image 20240905160132.png",
     "Dependencias/Pasted image 20240913212754.png",
     "Dependencias/Aulas - TC/Atividade 1 - TC - Aula 2.canvas",
