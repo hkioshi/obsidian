@@ -1,5 +1,11 @@
 # [[Ficha - Febre Oropouche]]
+
 # [[Taxas Oropouche]]
+
+# [[Artigo - Rascunho]]
+- ## [[Template - Contecsi]]
+- ## Referencias
+	- 
 
 - Artigo 1 [[2024-fevereiro-02-phe-alerta-oropouche-por-final.pdf]]
 	- [[artigo 1 - Analise]]

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
+                "file": "Sem título 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumo - P2 - 8 a 13 - CD"
+              "title": "Sem título 2"
+            }
+          },
+          {
+            "id": "d28e96eb3041fcf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "()"
             }
           },
           {
@@ -27,14 +41,42 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Dependencias/Aulas - TC/aula05_TC.pdf"
+                "file": "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "aula05_TC"
+              "title": "Introducao a Teoria da Computacao (Z-lib.io)"
+            }
+          },
+          {
+            "id": "c2299566cd328ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "7eb7ce72228e468d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aula 7 - Linguagem Funcional 3 - PP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -364,17 +406,116 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "7de4873bb5d78bda",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "6f2c8d5f5a76c554",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "c5ea405cd15f3912",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "dd7181582e0fbbf4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "23819c479f102b14",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "f9f22d1eb5eb3a8d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "0546bdd9cbff0c59",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "dc5e9931ca223376",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "04ec3c92557d464a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "d85fa03008383dd1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Fila de Notas para Revisar"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 472.5,
-    "collapsed": true
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,58 +532,58 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "4ea3d35965fe039d",
+  "active": "7eb7ce72228e468d",
   "lastOpenFiles": [
-    "Aulas/Teoria da computação/Aula 6 -.md",
-    "Aulas/Teoria da computação/Sem título.md",
-    "Aulas/Teoria da computação/Aula 5 - Capitulo 4 - Parte 2 - TC.md",
-    "Aulas/Teoria da computação/Aula 1.2 - Linguagem Turing-Decidível - TC.md",
-    "Aulas/Teoria da computação/Conceitos/Computável - conceito.md",
-    "Dependencias/Aulas - TC/aula06_TC.pdf",
-    "Dependencias/Aulas - TC/aula05_TC.pdf",
-    "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
-    "Processos.md",
-    "Coisas à fazer.md",
-    "Sem título.canvas",
-    "Recording 20241108193053.webm",
-    "Recording 20241108193208.webm",
-    "Dependencias/Aulas - CD/09 - NOSQL.pdf",
-    "Aulas/Ciencias de dados/Resumo P1 - 1 a 8 - CD.md",
-    "Aulas/Ciencias de dados/CD - Index.md",
-    "Aulas/Ciencias de dados/Aula 1 - Scrapping - CD.md",
-    "Aulas/Ciencias de dados/Aula 9 - SQL Mongo.md",
-    "Aulas/Ciencias de dados/Aula 7 - Correlação e Regressão  - CD.md",
-    "Aulas/Ciencias de dados/Aula 6 - Teste AB - CD.md",
-    "Aulas/Ciencias de dados/Aula 5 - Testes estatisticos - CD.md",
-    "Aulas/Ciencias de dados/Aula 4.5 - Pivot - CD.md",
-    "Aulas/Ciencias de dados/Aula 4.3 - Slice -CD.md",
-    "Aulas/Ciencias de dados/Aula 3.3 - Star Schema - CD.md",
-    "Aulas/Ciencias de dados/Aula 3.2 - OLTP e OLAP - CD.md",
-    "Aulas/Ciencias de dados/Aula 3 - OLAP Cubo - CD.md",
-    "Aulas/Ciencias de dados/Aula 3.1 - Cubo - CD.md",
-    "Aulas/Ciencias de dados/Aula 4.4 - Dice - CD.md",
-    "Aulas/Ciencias de dados/Aula 8 - NOSQL - CD.md",
+    "Aulas/Paradigma de Programação/Aula 8 - Concorrencia - PP.md",
+    "Aulas/Paradigma de Programação/PP - Index.md",
+    "Aulas/Paradigma de Programação/Aula 7 - Linguagem Funcional 3 - PP.md",
+    "Aulas/Paradigma de Programação/Aula 6 - Linguagem Funcional 2 - PP.md",
+    "Aulas/Paradigma de Programação/Aula 1.1 Compilado X Interpretado - PP.md",
+    "Aulas/Paradigma de Programação/Aula 3 - Linguagem de Script - PP.md",
+    "Aulas/Paradigma de Programação/Aula 4 - Linguagem de Sistema - PP.md",
+    "Dependencias/Aulas - PP/07.2 - Concorrência - Corrotinas.pdf",
+    "Aulas/Paradigma de Programação/Resumo prova 2 Aulas 10 a 13.md",
+    "Dependencias/Aulas - PP/07.0 - Concorrência - Processos e Threads.pdf",
+    "Aulas/Computação grafica/CG - Index.md",
+    "Aulas/Computação grafica/Pitch, yaw, roll.md",
+    "Aulas/Ciencias de dados/Aula 4.6 - Operações de Cubo em PostgreSQL - CD.md",
     "Aulas/Iniciação/artigo 4 - Analise.md",
-    "Aulas/Iniciação/artigo 3 - Analise.md",
-    "Aulas/Iniciação/Coisas a fazer.md",
-    "Dependencias/Aulas - TC/aula04_TC.pdf",
-    "Dependencias/Aulas - TC/aula01_TC.pdf",
-    "Dependencias/Aulas - TC/lista01_TC.pdf",
+    "Aulas/Iniciação/IC - Index.md",
+    "Aulas/Iniciação/Ficha - Febre Oropouche.md",
+    "Aulas/Iniciação/Template - Contecsi.md",
+    "Aulas/Iniciação/Artigo - Rascunho.md",
+    "Aulas/Ciencias de dados/Resumo - P2 - 8 a 13 - CD.md",
+    "Aulas/Ciencias de dados/CD - Index.md",
+    "Aulas/Ciencias de dados/Aula 14 - Series Temporais 2 - CD.md",
+    "Sem título 2.md",
+    "Sem título 3.md",
+    "Sem título.md",
+    "Index Principal.canvas",
+    "Aulas/Sistemas Operacionais/Aula 11 - Processos - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 10 - Syscall - SO.md",
+    "Aulas/Sistemas Operacionais/Aula 9 - Como compilar o kernel do Linux - SO.md",
+    "Aulas/Ciencias de dados/Aula 8 - NOSQL - CD.md",
+    "Dependencias/Aulas - CD/09 - NOSQL.pdf",
+    "Dependencias/Aulas - TC/Introducao a Teoria da Computacao (Z-lib.io).pdf",
+    "Sem título.canvas",
+    "Dependencias/Pasted image 20240916171850.png",
+    "Dependencias/Pasted image 20240913212457.png",
+    "Dependencias/Pasted image 20240905154801.png",
+    "Dependencias/artigos - IC/reemergence of oropouche_2007.pdf",
+    "Dependencias/artigos - IC/Transmission risk of Oropouche fever across the Americas.pdf",
+    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pdf",
+    "Dependencias/Aulas - PP/09 - Linguagens Lógica 1.pptx",
+    "Dependencias/Aulas - PP/09 - Linguagens Lógica.pptx",
+    "Dependencias/Aulas - TC/09 - Linguagens Lógica.pptx",
     "Dependencias/Pasted image 20240905160132.png",
     "Dependencias/Pasted image 20240913212754.png",
     "Dependencias/Aulas - TC/Atividade 1 - TC - Aula 2.canvas",
-    "Dependencias/Aulas - PP/05.1 - Linguagens Funcionais - Funções Parciais.pdf",
-    "Dependencias/Aulas - CD/09 - NOSQL 2.pptx",
     "go-logo-white.svg",
     "Dependencias/Pasted image 20240913212823.png",
     "Dependencias/Pasted image 20240913201231.png",
-    "Index Principal.canvas",
     "Sem título 1.canvas",
-    "Dependencias/Pasted image 20240913212457.png",
-    "Dependencias/Pasted image 20240905154801.png",
     "Dependencias/Pasted image 20240905171150.png",
     "Dependencias/Pasted image 20240913211551.png",
-    "Dependencias/Pasted image 20240913212515.png",
     "Dependencias/Projetinho.canvas",
     "Dependencias/Atividade 1 - CD.canvas"
   ]
