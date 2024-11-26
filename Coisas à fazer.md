@@ -18,29 +18,29 @@ kanban-plugin: board
 
 ## Tarefas Urgentes
 
-- [ ] Tarefas de CD
-- [ ] Tarefas de PP
-- [ ] Notas SO
-- [ ] Notas TC
+- [x] Tarefas de CD
+- [x] Tarefas de PP
+- [x] Notas SO
+- [x] Notas TC
 
 
 ## Sendo Feito
 
-- [ ] Iniciação
+- [x] Iniciação
 
 
 ***
 
 ## Arquivado
 
-- [ ] Subir o obsidian no github
-- [ ] - [ ] CG - Revisar Programas
-- [ ] - [ ] PI - Revisar Programs
-- [ ] - [ ] SO - Instalar o ArcLinux
-- [ ] - [ ] TC - Escrever todas as notas ^74zmjs
-- [ ] - [ ] TC - Lista 1
-- [ ] - [ ] TC - Lista 2
-- [ ] - [ ] Unificar linguagem
+- [x] Subir o obsidian no github
+- [x] - [ ] CG - Revisar Programas
+- [x] - [ ] PI - Revisar Programs
+- [x] - [ ] SO - Instalar o ArcLinux
+- [x] - [ ] TC - Escrever todas as notas ^74zmjs
+- [x] - [ ] TC - Lista 1
+- [x] - [ ] TC - Lista 2
+- [x] - [ ] Unificar linguagem
 - [x] Trabalho TC
 - [x] Prova - 14/10 - PP
 - [x] Prova - 7/10 - CD

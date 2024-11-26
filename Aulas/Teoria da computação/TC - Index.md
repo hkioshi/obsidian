@@ -9,4 +9,10 @@
 
 # [[Aula 5 - Capitulo 4 - Parte 2 - TC]]
 
+# [[aula06_TC.pdf]]
+# [[aula07_TC.pdf]]
+# [[aula08_TC.pdf]]
+# [[aula09_TC.pdf]]
+
+
 # [[Conceitos - Index]]

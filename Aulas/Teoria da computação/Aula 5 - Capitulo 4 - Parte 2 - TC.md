@@ -8,9 +8,7 @@
 
 - O conjuto de todas as maquinas de turing é [[Contável - conceito]]
 - ## Problema da parada
-	-  $\huge \Delta = b ^ 2 - 4 * ac$
-	- $\Huge x = \frac{-b \pm \sqrt \Delta}{2a}$
-	- $\Huge x = \frac{-b \pm \sqrt{b ^ 2 - 4 * ac}}{2a}$
+	
 	
 	
 	

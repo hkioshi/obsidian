@@ -8,7 +8,7 @@
 ### [Exercicio 1](https://crivelaro.notion.site/Ex-Prolog-Base-de-conhecimento-Recurs-o-110a6ec0abcd80f9b6edf4eacb7bd61d)
 
 # Aula 11 - Logico 2
-### [Exercicio 2](https://crivelaro.notion.site/Ex-Prolog-Listas-11ba6ec0abcd8010bfbafa1ea7380aae?pvs=4)
+### [Exercicio   2](https://crivelaro.notion.site/Ex-Prolog-Listas-11ba6ec0abcd8010bfbafa1ea7380aae?pvs=4)
 
 ### [Código - Tuplas e Listas](https://github.com/celsocrivelaro/senac-paradigmas/blob/main/prolog/05-tuplas-listas.pl)
 
